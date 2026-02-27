@@ -1,0 +1,11 @@
+id = "e2"
+name = "E2"
+version = "0.0.1"
+schema_version = 1
+authors = [ "Ferdinand Schober <ferdinandschober20@gmail.com>"]
+description = "E2 Language Support"
+repository = "https://github.com/feschber/zed-e2"
+
+[grammars.e2]
+repository = "https://github.com/feschber/tree-sitter-e2"
+rev = "99b4c2c01dada18eaf785dd50d9ac14a9a6a0f20"

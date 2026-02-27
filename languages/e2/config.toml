@@ -1,0 +1,4 @@
+name = "E2"
+grammar = "e2"
+path_suffixes = ["e2"]
+line_comments = ["# "]
