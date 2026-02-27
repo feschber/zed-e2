@@ -1,0 +1,6 @@
+("(" @open ")" @close)
+("[" @open "]" @close)
+("func" @open "end" @close)
+("while" @open "end" @close)
+("if" @open "end" @close)
+("else" @open "end" @close)
